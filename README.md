@@ -3,10 +3,14 @@
  ### h3
  #### h4
  ##### h5
- **con esto el texto es en negrita **
- *esto es para poner la letra en cursiva *
+ ** con esto el texto es en negrita **
+
+ * esto es para poner la letra en cursiva *
+
  ~~ con esto te tacha el texto ~~
+
 <sub> para un subtitulo</sub>
+
 <sup> para poner la letra como en una potencia</sup>
 
 
