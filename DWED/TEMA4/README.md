@@ -1,1 +1,6 @@
 # TEMA4
+## Revisión de código
+La revisión de código es una de las fases más importantes de todo desarrollador, ya que una vez finalizada una primera versión local de nuestro desarrollo, es necesario revisar el código para identificar posibles problemas o soluciones a otros problemas. Para ello existen diferentes métodos para depurar el código.
+Método de depuración del patito de goma
+El método de depuración del patito de goma es un término informal utilizado en ingeniería de software para describir un método de revisión de código. El nombre hace referencia a una historia del libro “The Pragmatic Programmer” en donde un programador toma un patito de goma y revisa su código forzándose a sí mismo a explicarlo, línea por línea, al pato. Existen otros muchos términos para esta técnica, que a menudo tienen que ver con objetos inanimados.
+Muchos programadores han tenido la experiencia de explicar un problema de programación a alguien más, posiblemente a alguien que no sabe nada sobre programación, y encontrar la solución en el proceso de explicar el problema. Al comparar lo que supuestamente hace el código con lo que hace en realidad, cualquier incongruencia resulta evidente. Usando un objeto inanimado, el programador puede tratar de lograr el mismo efecto sin tener que hablar con otra persona.
